@@ -1,5 +1,13 @@
 # bdlang
 
+Define a variable using the following structures
+```
+define variableName = value;
+```
+Currently this language can handle variable definitions and simple mathematics using the variable values also.
+
+
+
 To install dependencies:
 
 ```bash
