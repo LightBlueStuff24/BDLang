@@ -13,7 +13,7 @@ define b = 30;
 define c = (a - b) / 5;
 define result = c * 73; 
 ```
-output
+the interpreter works one line at a time. So the output will be:
 ```
 50
 30
