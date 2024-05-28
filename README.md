@@ -6,7 +6,20 @@ define variableName = value;
 ```
 Currently this language can handle variable definitions and simple mathematics using the variable values also.
 
-
+Example
+```
+define a = 50;
+define b = 30;
+define c = (a - b) / 5;
+define result = c * 73; 
+```
+output
+```
+50
+30
+4
+292
+```
 
 To install dependencies:
 
