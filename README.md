@@ -1,5 +1,7 @@
 # bdlang
 
+A interpreter based language. currently only runnable in shell commands.
+
 Define a variable using the following structures (currently only numbers are supported. Soon string values will also be supported.)
 ```
 define variableName = value;
